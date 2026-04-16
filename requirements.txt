@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+nmap
+requests
+cryptography
+celery
+redis
+aiohttp
+pydantic
+psycopg2
+# security scanning libraries
